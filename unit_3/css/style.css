@@ -1,11 +1,10 @@
 body { 
 	background-color: ffff;
 	}
-h1, p {
+h1, h2 p {
 		color: gray;
 	}
-	{font-size=28px}
-	{font-style=sans serif}
+	{font-size=48px} {font-style=sans serif, Arial}
 	{font-weight-normal}
 	{text-align=left}
-FFF
+
