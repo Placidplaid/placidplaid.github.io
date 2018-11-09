@@ -2,14 +2,14 @@ body {
 	background-color: #ffff;
 	}
 h1  {
-		color: gray; font-size=268px; font-style=sans serif, Arial;
+		color: gray; font-size=368px; font-style=sans serif;
 font-weight-normal; text-align=left; font-family: Open Sans, sans-serif;}
 
-h2  { color: gray; font-size=168px; font-style=sans serif, Arial;
+h2  { color: gray; font-size=168px; font-style=sans serif;
 font-weight-normal; text-align=left; font-family: Open Sans, sans-serif;}
 
 p  {
-color: gray; font-size=148px; font-style=serif, Times Roman; 
+color: gray; font-size=148px; font-style=serif; 
 font-family: 'Roboto Slab', serif;
 font-weight=normal; text-align=left}
 
