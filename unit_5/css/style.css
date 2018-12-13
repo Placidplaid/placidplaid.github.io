@@ -1,24 +1,60 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+header {
+		background-color: #FFED74;
+		border: 1px black solid;
+		padding: 20px;
+		}
+
+nav 	{
+		background-color: #8C66A;
+		border: 1px black solid;
+		padding: 20px;
+		}	
+
+aside	{
+		background-color: #8C66A;
+		border: 1px black solid;
+		padding: 20px;
+		}
+
+article	{
+		background-color: #E89C6C;
+		border: black solid;
+		padding: 20px;
+		}
+
+footer	{
+		background-color: #FF957E;
+		border: black solid;
+		padding: 20px;
+	}
+div	{	background-color: #FFE2B8;
+		border: 1px black solid;
+		padding: 20px;
+	}
+		
+
 body { 
 	background-color: #fff;
 }
 h1  {
-	color: gray;
-	font-size:68px;
-	font-weight:normal;
+	color: black;
+	font-size:38px;
+	font-weight:bold;
 	text-align:left;
 	font-family: 'Open Sans', sans-serif;
 }
 h2  { 
-	color: gray;
-	font-size:18px;
-	font-weight:normal;
+	color: black;
+	font-size:24px;
+	font-weight:bold;
 	text-align:left;
 	font-family: 'Open Sans', sans-serif;
 }
 p  {
-	color: gray; 
-	font-size:48px;
+	color: black;
+	font-size:18px;
 	font-family: 'Roboto Slab', serif;
 	font-weight:normal;
 	text-align:left;
